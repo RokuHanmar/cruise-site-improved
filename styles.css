@@ -1,0 +1,12 @@
+h1 {
+	text-align: center;
+	}
+
+/*	
+	Source - https://stackoverflow.com/a/15958466
+	Posted by lucuma, modified by community. See post 'Timeline' for change history
+	Retrieved 2026-04-23, License - CC BY-SA 3.0
+*/
+.header {background-color: rebeccapurple; height: 100px} /* Colour is a placeholder so I know where the header is */
+.logo {float:right;} 
+
